@@ -1,0 +1,6 @@
+ &AREA_LIM
+  ILN = 24
+  ILX = 32
+  JLN = 28
+  JLX = 35
+ &END
